@@ -1,0 +1,14 @@
+{
+	"name": "alert_test",
+	"manifest_version": 3,
+	"version": "0.1",
+	"permissions": ["activeTab","scripting"],
+	"background": {
+		"service_worker": "alert.js"
+	},
+	"action": {
+		"default_icon": {
+			"16": "images/nagoya.jpg"
+		}
+	}
+}

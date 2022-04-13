@@ -1,0 +1,12 @@
+{
+	"name": "alert_2",
+	"manifest_version": 3,
+	"version": "0.1",
+	"permissions": ["activeTab","scripting"],
+	"background": {
+		"service_worker": "alert_getTabId.js"
+	},
+	"action": {
+
+	}
+}

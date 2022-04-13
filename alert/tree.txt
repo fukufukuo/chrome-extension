@@ -1,0 +1,13 @@
+Folder PATH listing for volume Windows
+Volume serial number is CE47-3019
+C:\CHROME_EXTENSION\ALERT
+„    alert.js
+„    manifest.json
+„    tree.txt
+„    
+„¥„Ÿ„Ÿ„Ÿ.vscode
+„        launch.json
+„        
+„¤„Ÿ„Ÿ„Ÿimages
+        nagoya.jpg
+        
