@@ -1,0 +1,13 @@
+{
+	"name": "Extension with GAPI",
+	"manifest_version": 3,
+	"version": "0.1",
+  "description": "uses OAuth to conncet Google Spreadsheet API",
+	"background": {
+    "page": "background.html",
+    "persistent": false
+	},
+	"browser_action": {
+    "default_title": "GAPI Tutorial"
+	}
+}
