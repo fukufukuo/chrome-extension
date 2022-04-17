@@ -4,10 +4,9 @@
 	"version": "0.1",
   "description": "uses OAuth to conncet Google Spreadsheet API",
 	"background": {
-    "page": "background.html",
-    "persistent": false
+    "service-worker": "background.js"
 	},
-	"browser_action": {
+	"action": {
     "default_title": "GAPI Tutorial"
 	}
 }
