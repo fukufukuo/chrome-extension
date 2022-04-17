@@ -3,6 +3,7 @@
 	"manifest_version": 3,
 	"version": "0.1",
   "description": "uses OAuth to conncet Google Spreadsheet API",
+	"permissions": ["identity"],
 	"background": {
     "service-worker": "background.js"
 	},
