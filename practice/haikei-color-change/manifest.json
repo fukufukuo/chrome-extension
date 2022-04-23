@@ -6,7 +6,9 @@
 	"content_scripts": [
     {
       "matches": ["http://example.com/"],
-      "js": ["haikei-change.js"]
+      "js": [
+        "haikei-change.js"
+      ]
     }
   ],
 	"action": {

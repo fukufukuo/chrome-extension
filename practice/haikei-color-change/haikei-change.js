@@ -1,4 +1,4 @@
 haikei_change = () => {
   console.log('コンテントスクリプトだお');
-  document.body.backgroundColor = "blue";
+  document.body.style.backgroundColor = "blue";
 }
