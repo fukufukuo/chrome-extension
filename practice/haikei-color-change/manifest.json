@@ -1,0 +1,15 @@
+{
+	"name": "haikei-color-change",
+	"manifest_version": 3,
+	"version": "1.0.0",
+  "description": "ページの背景を変えちゃうよ",
+	"content_scripts": [
+    {
+      "matches": ["http://example.com/"],
+      "js": ["haikei-change.js"]
+    }
+  ],
+	"action": {
+    "default_title": "haikei-color-change"
+	}
+}
