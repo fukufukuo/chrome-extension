@@ -5,7 +5,7 @@
   "description": "ページの背景を変えちゃうよ",
 	"content_scripts": [
     {
-      "matches": ["http://example.com/"],
+      "matches": ["http://example.com/","https://www.google.co.jp/*"],
       "js": [
         "haikei-change.js"
       ]
